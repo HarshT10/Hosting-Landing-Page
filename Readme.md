@@ -2,7 +2,7 @@
 
 - This project is a landing page for hosting. 
 
-[Netlify](https://hosting-landing-page-harshthakkar1011.netlify.app)
+[Netlify](https://hosting-landing-page-harshcodes.netlify.app)
 
 ![Badge](https://img.shields.io/badge/Netlify-Link-green)
 
