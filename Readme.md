@@ -1,6 +1,6 @@
 # **Project 11 - Hosting Landing Page**
 
-- This project is a landing page for hosting. 
+- This project is a landing page for hosting. It is Fully Responsive.
 
 [Netlify](https://hosting-landing-page-harshcodes.netlify.app)
 
